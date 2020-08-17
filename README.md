@@ -7,13 +7,14 @@ flutter send mail
 ## Getting Started
 
 1) add 'flutter_email_sender: ^3.0.1' to pubspec.yaml 
+```
   ...
 dependencies:
   flutter:
     sdk: flutter
   flutter_email_sender: ^3.0.1
   ...
-  
+  ```
  2) create SendMail.dart
   ```
   import 'dart:async';
